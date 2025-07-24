@@ -95,7 +95,7 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"             alt="onkarhavarge" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:onkarhavarge@gmail.com" target="blank">
+  <a href="mailto:onkarhavarge07@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
