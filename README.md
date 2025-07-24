@@ -11,6 +11,15 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 
 ---
 
+## 🚀 About Me
+
+- 🎓 CDAC Student | B.Tech in Artificial Intelligence
+- 💡 I love solving real-world problems using **Machine Learning, Deep Learning, and Cloud Technologies**
+- 📊 Currently building intelligent systems and dashboards for data-driven businesses
+- 🌐 Exploring LLMs, NLP, and AI-powered applications
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -28,15 +37,6 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 
 ---
 
-## 🚀 About Me
-
-- 🎓 CDAC Student | B.Tech in Artificial Intelligence
-- 💡 I love solving real-world problems using **Machine Learning, Deep Learning, and Cloud Technologies**
-- 📊 Currently building intelligent systems and dashboards for data-driven businesses
-- 🌐 Exploring LLMs, NLP, and AI-powered applications
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -51,6 +51,9 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 ### Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
