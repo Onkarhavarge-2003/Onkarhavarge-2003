@@ -20,22 +20,6 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 
 ---
 
-## 🌟 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarhavarge&bg_color=1a1b27&color=ffffff&line=ff4f4f&point=fdfdfd&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkarhavarge&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 💻 Top Languages
 
 <p align="center">
