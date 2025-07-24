@@ -91,8 +91,8 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/onkarhavarge" target="blank" style="margin-right:10px;">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/onkarhavarge" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"             alt="onkarhavarge" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:onkarhavarge@gmail.com" target="blank">
