@@ -22,13 +22,8 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=onkarhavarge&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=onkarhavarge&hide_border=true&theme=radical" alt="GitHub Streak Stats" />
-</div>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onkarhavarge&show_icons=true&theme=radical" alt="GitHub Stats" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarhavarge&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarhavarge&layout=compact&theme=radical" alt="Top Languages" /> 
 </p>
 
 ---
@@ -76,9 +71,10 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 
 ## 📚 Certifications
 - CDAC Advanced Computing (2024)
-- AWS Cloud Practitioner – Amazon Web Services
-- Deep Learning Specialization – Andrew Ng
-- Git, Linux, and Docker Essentials
+- Programming fundamentals by Coursera  
+- Machine Learning with python by Coursera
+- Accenture North America – Data Analytics and Visualization
+- The Joy of Computing Using Python (NPTEL)    
 
 ---
 
@@ -90,8 +86,7 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/onkarhavarge)
-- Email: onkarhavarge07@gmail.com 
+<p align="left"> <a href="https://www.linkedin.com/in/onkarhavarge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:onkarhavarge07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a> </p>
 
 ---
 
