@@ -26,3 +26,16 @@ Cloud & DevOps:  AWS, Git, GitHub, GitLab, Docker, CI/CD
 Database:        MySQL, MongoDB, SQLite
 Big Data Tools:  Hadoop, Hive, HBase, Spark
 ML & DL:         Scikit-learn, TensorFlow, Keras, OpenCV
+```
+📊 GitHub Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onkarhavarge&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarhavarge&theme=radical" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarhavarge&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
+📫 Connect with Me:
+<p align="left"> <a href="https://www.linkedin.com/in/onkarhavarge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:onkar@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a> </p>
+
+🧠 Projects Showcase:
+🗣️ Speaker Diarization using ML – LightGBM + VAD for speaker identification
+
+📊 Business Dashboard using Power BI – End-to-end BI pipeline
+
+📦 ML Model Deployment – Flask + AWS EC2 + Dockerized model
