@@ -86,11 +86,11 @@ Welcome to my GitHub profile! Always building, learning, and exploring the world
 ---
 
 ## 📫 Contact Me
-<p align="left"> <a href="https://www.linkedin.com/in/onkarhavarge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:onkarhavarge07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a> </p>
 <p align="left">
 <a href="https://linkedin.com/in/onkar-havarge-8ba84925a" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar havarge" height="30" width="40" />
 </a>
+</t>
 <a href="https://instagram.com/onkarhavarge" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onkarhavarge" height="30" width="40" />
 </a>
